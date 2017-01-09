@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1,Channel One - NASA
+http://sat.010e.net:8000/live/jsPv15wH4o/Reem-Azeez/215.ts
+#EXTINF:-1,Channel Two - TWiT
+http://sat.010e.net:8000/live/jsPv15wH4o/Reem-Azeez/216.ts
+#EXTINF:-1,Channel Three - BipBop
+http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8
+#EXTINF:-1,Channel Four - BigBuckBunny
+http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8
+
