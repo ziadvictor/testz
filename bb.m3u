@@ -1,10 +1,564 @@
 #EXTM3U
-#EXTINF:-1,Channel One - NASA
-http://sat.010e.net:8000/live/jsPv15wH4o/Reem-Azeez/215.ts
-#EXTINF:-1,Channel Two - TWiT
-http://sat.010e.net:8000/live/jsPv15wH4o/Reem-Azeez/216.ts
-#EXTINF:-1,Channel Three - BipBop
-http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8
-#EXTINF:-1,Channel Four - BigBuckBunny
-http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8
-
+#EXTINF:-1,[ARN] Aljazeera NEWS
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1.ts
+#EXTINF:-1,[ARN] Aljazeera mubasher
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/2.ts
+#EXTINF:-1,[ARN] Aljazeera Doc
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/3.ts
+#EXTINF:-1,[ARN] aljazeera balkans
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1156.ts
+#EXTINF:-1,[ARN] AL ARABIA TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/4.ts
+#EXTINF:-1,[ARN] Alarabia Alhadath
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/5.ts
+#EXTINF:-1,[ARN] Sky News arabia
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/6.ts
+#EXTINF:-1,[ARN] Al Ghad Al Arabi TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1236.ts
+#EXTINF:-1,[ARN] Alaraby TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1274.ts
+#EXTINF:-1,[ARN] CNBC
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1276.ts
+#EXTINF:-1,[ARN] Russia Today
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/7.ts
+#EXTINF:-1,[ARN] BBC ARABIC
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/8.ts
+#EXTINF:-1,[ARN] TRT Arabic
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/12.ts
+#EXTINF:-1,[ARN] France 24 AR
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/10.ts
+#EXTINF:-1,[ARN] Euronews Arabic
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/975.ts
+#EXTINF:-1,[ARN] DW Arabia
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/9.ts
+#EXTINF:-1,[ARN] Alhiwar
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/14.ts
+#EXTINF:-1,[ARN] Orient News
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/197.ts
+#EXTINF:-1,[ARN] Alqanat tv
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/834.ts
+#EXTINF:-1,[ARN] Watan tv
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/828.ts
+#EXTINF:-1,[ARN] Alalam
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/15.ts
+#EXTINF:-1,«««««««««ENGLISH-NEWS»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/654.ts
+#EXTINF:-1,[ENS]  Aljazeera English
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/214.ts
+#EXTINF:-1,[ENS] BBC WORLD NEWS
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1251.ts
+#EXTINF:-1,[ENS] SKY NEWS
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1242.ts
+#EXTINF:-1,[ENS]  CNN
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/794.ts
+#EXTINF:-1,[ENS] MSNBC
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1041.ts
+#EXTINF:-1,[ENS] RT News America
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/848.ts
+#EXTINF:-1,[ENS]  FRANCE 24
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/655.ts
+#EXTINF:-1,[ENS]  TRT World
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/16.ts
+#EXTINF:-1,[ENS]  DW English
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/396.ts
+#EXTINF:-1,[ENS] CSPAN 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1040.ts
+#EXTINF:-1,[ENS] INFOWARS
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1039.ts
+#EXTINF:-1,[ENS] Press TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1243.ts
+#EXTINF:-1,«««««««««ART»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/625.ts
+#EXTINF:-1,ART AFLAM1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/468.ts
+#EXTINF:-1,ART AFLAM2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/467.ts
+#EXTINF:-1,ART HEKAYAT 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/464.ts
+#EXTINF:-1,ART HEKAYAT 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/465.ts
+#EXTINF:-1,ART CINEMA
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/466.ts
+#EXTINF:-1,ART America
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1442.ts
+#EXTINF:-1,ART Movies
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1445.ts
+#EXTINF:-1,ART Variety
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1443.ts
+#EXTINF:-1,ART Tarab
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1444.ts
+#EXTINF:-1,«««««««««ROTANA»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/626.ts
+#EXTINF:-1,[AR] ROTANA AFLAM
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1066.ts
+#EXTINF:-1,[AR] ROTANA MASRIYAH
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/470.ts
+#EXTINF:-1,[AR] ROTANA CINEMA
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/472.ts
+#EXTINF:-1,[AR]  ROTANA KHALIJIAH
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/471.ts
+#EXTINF:-1,[AR] ROTANA CLASSIC
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/474.ts
+#EXTINF:-1,[AR] ROTANA MUSIC
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/469.ts
+#EXTINF:-1,[AR] ROTANA CLIP
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/473.ts
+#EXTINF:-1,«««««««««MBC»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/410.ts
+#EXTINF:-1,[AR] Mbc 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/669.ts
+#EXTINF:-1,[AR] Mbc 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/186.ts
+#EXTINF:-1,[AR] Mbc 3
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/19.ts
+#EXTINF:-1,[AR] Mbc 4
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/189.ts
+#EXTINF:-1,[AR] Mbc Max
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/187.ts
+#EXTINF:-1,[AR] Mbc Action
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/188.ts
+#EXTINF:-1,[AR]  Mbc Drama
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/778.ts
+#EXTINF:-1,[AR] Mbc Masr
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/775.ts
+#EXTINF:-1,[AR] Mbc Masr2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/776.ts
+#EXTINF:-1,[AR] Mbc Bollywood
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/777.ts
+#EXTINF:-1,[AR] Mbc FM
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1240.ts
+#EXTINF:-1,[AR] B4U PLUS
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1237.ts
+#EXTINF:-1,[AR] B4U AFLAM
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1010.ts
+#EXTINF:-1,[AR]  ZEE ALWAN
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/672.ts
+#EXTINF:-1,[AR] ZEE AFLAM
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/659.ts
+#EXTINF:-1,[AR] CCTN ARABIC
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1261.ts
+#EXTINF:-1,«««««««««MBC-HD»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/990.ts
+#EXTINF:-1,[AR] MBC 1 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/991.ts
+#EXTINF:-1,[AR] MBC 2 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/992.ts
+#EXTINF:-1,[AR] MBC 3 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/30.ts
+#EXTINF:-1,[AR] MBC 4 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/993.ts
+#EXTINF:-1,[AR] MBC Max HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/996.ts
+#EXTINF:-1,[AR] MBC Action HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/994.ts
+#EXTINF:-1,[AR] MBC Drama HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/995.ts
+#EXTINF:-1,[AR] MBC+Drama HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/877.ts
+#EXTINF:-1,[AR] MBC VARIETY HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1065.ts
+#EXTINF:-1,[AR] MBC Bollywood HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1715.ts
+#EXTINF:-1,«««««««««SEEVII»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1154.ts
+#EXTINF:-1,[AR] SeeVii Al oula HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1130.ts
+#EXTINF:-1,[AR] SeeVii Drama HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1151.ts
+#EXTINF:-1,[AR] SeeVii Shoof HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1152.ts
+#EXTINF:-1,[AR] SeeVii Shamiya HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1153.ts
+#EXTINF:-1,«««««««««LEBANON»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/412.ts
+#EXTINF:-1,[LBN] Mtv LIVE
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/476.ts
+#EXTINF:-1,[LBN] Mtv Time shift 2H
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1560.ts
+#EXTINF:-1,[LBN] Mtv Time shift 4H
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1559.ts
+#EXTINF:-1,[LBN] Mtv Time shift 6H
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1558.ts
+#EXTINF:-1,[LBN] LDC LIVE
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/479.ts
+#EXTINF:-1,[LBN] LDC Time shift 2H
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1557.ts
+#EXTINF:-1,[LBN] LDC Time shift 4H
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1556.ts
+#EXTINF:-1,[LBN] LDC Time shift 6H
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1555.ts
+#EXTINF:-1,[LBN] Aljadeed LIVE
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/475.ts
+#EXTINF:-1,[LBN] Aljadeed Time shift 2H
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1554.ts
+#EXTINF:-1,[LBN] Aljadeed Time shift 4H
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1553.ts
+#EXTINF:-1,[LBN] Aljadeed Time shift 6H
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1552.ts
+#EXTINF:-1,[LBN] LBC
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/480.ts
+#EXTINF:-1,[LBN] OTV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/71.ts
+#EXTINF:-1,[LBN] NBN
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/477.ts
+#EXTINF:-1,[LBN] AlManar
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/72.ts
+#EXTINF:-1,[LBN] Tele Liban
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1277.ts
+#EXTINF:-1,[LBN] FUTURE TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/70.ts
+#EXTINF:-1,[LBN] Al Mayadeen
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/481.ts
+#EXTINF:-1,[LBN] IFILM
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1131.ts
+#EXTINF:-1,[LBN] AL SIRAT
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/854.ts
+#EXTINF:-1,[LBN] Aljaliya TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/837.ts
+#EXTINF:-1,[LBN] Centre Zahra tv
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1325.ts
+#EXTINF:-1,[LBN] Al Maraa Alarabeya
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1582.ts
+#EXTINF:-1,«««««««««COOKING»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1005.ts
+#EXTINF:-1,[AR] Antii TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1004.ts
+#EXTINF:-1,[AR] Bena  TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1003.ts
+#EXTINF:-1,[AR] Citruss tv
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/297.ts
+#EXTINF:-1,[AR] Fatafeat
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1057.ts
+#EXTINF:-1,[AR] Samira TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/519.ts
+#EXTINF:-1,[AR] Tasty Food
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1471.ts
+#EXTINF:-1,[EGY] CBC SOFRA
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/461.ts
+#EXTINF:-1,[EGY] Panorama Food
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/676.ts
+#EXTINF:-1,«««««««««EGYPT»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/416.ts
+#EXTINF:-1,[EGY] CBC
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/690.ts
+#EXTINF:-1,[EGY] CBC+2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/767.ts
+#EXTINF:-1,[EGY] CBC_Extra
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/462.ts
+#EXTINF:-1,[EGY] CBC DRAMA
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/463.ts
+#EXTINF:-1,[EGY] Panorama Film
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/677.ts
+#EXTINF:-1,[EGY] Panorama Drama
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/681.ts
+#EXTINF:-1,[EGY] Panorama Drama 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/678.ts
+#EXTINF:-1,[EGY] Nile News
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1319.ts
+#EXTINF:-1,[EGY] Nile Drama
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/198.ts
+#EXTINF:-1,[EGY] Nile Cinema
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/199.ts
+#EXTINF:-1,[EGY] Nile comedy
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/840.ts
+#EXTINF:-1,[EGY] Nile culture
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/841.ts
+#EXTINF:-1,[EGY] Nile Family
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/839.ts
+#EXTINF:-1,[EGY] Nile Life
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/200.ts
+#EXTINF:-1,[EGY] Nile Sport
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/207.ts
+#EXTINF:-1,[EGY] Nile education
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/838.ts
+#EXTINF:-1,[EGY] TIME QURAN
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1320.ts
+#EXTINF:-1,[EGY] TIME COMEDY
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/686.ts
+#EXTINF:-1,[EGY] TIME CINEMA
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/685.ts
+#EXTINF:-1,[EGY] ALHAYAT
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/689.ts
+#EXTINF:-1,[EGY] AlHayat 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/520.ts
+#EXTINF:-1,[EGY] Alhayat We Alnas
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1318.ts
+#EXTINF:-1,[EGY] ALHAYAT Musalsalat
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/691.ts
+#EXTINF:-1,[EGY] Alnahar one
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/632.ts
+#EXTINF:-1,[EGY] Alnahar 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1551.ts
+#EXTINF:-1,[EGY] Alnahar Drama
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/633.ts
+#EXTINF:-1,[EGY] Alnahar Drama +2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/302.ts
+#EXTINF:-1,[EGY] AlNahar +2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1438.ts
+#EXTINF:-1,[EGY] Almasria TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1118.ts
+#EXTINF:-1,[EGY] Almasriyah 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/881.ts
+#EXTINF:-1,[EGY] Al Thania
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1322.ts
+#EXTINF:-1,[EGY] Sada El Balad
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1079.ts
+#EXTINF:-1,[EGY] Sada EL Balad 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1080.ts
+#EXTINF:-1,[EGY] SADA El Balad Drama
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1081.ts
+#EXTINF:-1,[EGY] AlKAHERA WALNAS
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/674.ts
+#EXTINF:-1,[EGY] ALKAHERA WALNAS 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1093.ts
+#EXTINF:-1,[EGY] Moga Comedy
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1009.ts
+#EXTINF:-1,[EGY] Maspero Zaman
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1321.ts
+#EXTINF:-1,[EGY] Masr Al balad
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/341.ts
+#EXTINF:-1,[EGY]  Masraweya aflam
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1117.ts
+#EXTINF:-1,[EGY] MASR ELHAYA
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/831.ts
+#EXTINF:-1,[EGY] DREAM 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/385.ts
+#EXTINF:-1,[EGY] TEN
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1317.ts
+#EXTINF:-1,[EGY] Cima
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1008.ts
+#EXTINF:-1,[EGY] CINEMA PRO
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1196.ts
+#EXTINF:-1,[EGY] ON ENT HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1077.ts
+#EXTINF:-1,[EGY] ONTV LIVE
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1234.ts
+#EXTINF:-1,[EGY] ONTV DRAMA
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1550.ts
+#EXTINF:-1,[EGY] ONTV SPORT
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/675.ts
+#EXTINF:-1,[EGY] Dmc HD TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1235.ts
+#EXTINF:-1,[EGY] Dmc  sd
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1683.ts
+#EXTINF:-1,[EGY] Dmc Drama
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1220.ts
+#EXTINF:-1,[EGY] Dmc Sport
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1078.ts
+#EXTINF:-1,[EGY] AL AHLY TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1120.ts
+#EXTINF:-1,[EGY] Cinema 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1231.ts
+#EXTINF:-1,[EGY] Cinema 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1232.ts
+#EXTINF:-1,[EGY] Cairo one
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1305.ts
+#EXTINF:-1,[EGY] Cairo Cinema
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1314.ts
+#EXTINF:-1,[EGY] CAIRO DRAMA
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/687.ts
+#EXTINF:-1,[EGY] TokTok Aflam
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1191.ts
+#EXTINF:-1,[EGY] TOKTOK CIMA
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1063.ts
+#EXTINF:-1,[EGY] Star Cinema 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1193.ts
+#EXTINF:-1,[EGY] Star Cinema 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1192.ts
+#EXTINF:-1,[EGY] MELODY AFLAM
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1230.ts
+#EXTINF:-1,[EGY] Watan TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1229.ts
+#EXTINF:-1,[EGY] MELODY Classic
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/184.ts
+#EXTINF:-1,[EGY] Al Assema
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1316.ts
+#EXTINF:-1,[EGY] ELSHARQ
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/140.ts
+#EXTINF:-1,[EGY] EL MEHWAR
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/143.ts
+#EXTINF:-1,[EGY] MEKAMELEEN 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/141.ts
+#EXTINF:-1,«««««««««IRAQ»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/413.ts
+#EXTINF:-1,[IRQ] Alhadath Iraqia
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/39.ts
+#EXTINF:-1,[IRQ] AlSharqiya News
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/40.ts
+#EXTINF:-1,[IRQ] Alsharqia HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/42.ts
+#EXTINF:-1,[IRQ]  Al Sumaria
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1446.ts
+#EXTINF:-1,[IRQ] BAGHDAD TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1599.ts
+#EXTINF:-1,[IRQ]  HOUNA Baghdad
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/251.ts
+#EXTINF:-1,[IRQ] Al-HURRA IRAQ
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/397.ts
+#EXTINF:-1,[IRQ] AlHURRA
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/43.ts
+#EXTINF:-1,[IRQ] ANB iraq
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/41.ts
+#EXTINF:-1,[IRQ] AlRasheed
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/44.ts
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1258.ts
+#EXTINF:-1,[IRQ] Dejlah
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/49.ts
+#EXTINF:-1,[IRQ] NRT TV
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/56.ts
+#EXTINF:-1,«««««««««OSN»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/422.ts
+#EXTINF:-1,[OSN] OSN Ya Hala
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/853.ts
+#EXTINF:-1,[OSN] OSN Ya Hala Cinema
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/851.ts
+#EXTINF:-1,[OSN] OSN First
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/357.ts
+#EXTINF:-1,[OSN] OSN Series Alfa
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/355.ts
+#EXTINF:-1,[OSN] OSN  Nickelodeon
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1435.ts
+#EXTINF:-1,[OSN] OSN Movies
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/354.ts
+#EXTINF:-1,[OSN] OSN Movies Action 2+
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/642.ts
+#EXTINF:-1,[OSN] OSN Star Movie
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/769.ts
+#EXTINF:-1,[OSN] OSN Movies Kids
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/353.ts
+#EXTINF:-1,[OSN] OSN Movies Action
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/360.ts
+#EXTINF:-1,[OSN] OSN Movies Drama
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/356.ts
+#EXTINF:-1,[OSN] OSN Movies Premiere
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/352.ts
+#EXTINF:-1,[OSN] OSN  Movies Action +2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/643.ts
+#EXTINF:-1,[OSN] OSN On Demand 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/351.ts
+#EXTINF:-1,[OSN] OSN On Demand 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/350.ts
+#EXTINF:-1,[OSN] OSN Movies Box Office 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/359.ts
+#EXTINF:-1,[OSN] OSN Movies Box Office 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/358.ts
+#EXTINF:-1,[OSN] OSN Movies Box Office 3
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/645.ts
+#EXTINF:-1,[OSN] OSN Ad Sport 1  HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/650.ts
+#EXTINF:-1,[OSN] OSN Ad Sport 2  HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/649.ts
+#EXTINF:-1,«««««««««BEINSPORT»»»»»»»»»
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/421.ts
+#EXTINF:-1,[AR] Fox Action
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/361.ts
+#EXTINF:-1,[AR] Fox Family
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/343.ts
+#EXTINF:-1,[AR] Bein Series
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1440.ts
+#EXTINF:-1,[AR] Bein Movies 1 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/376.ts
+#EXTINF:-1,[AR] Bein Movies 2 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/375.ts
+#EXTINF:-1,[AR] Bein Movies 3 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/374.ts
+#EXTINF:-1,[AR] Bein Movies 4 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/373.ts
+#EXTINF:-1,[AR] Bein Sports News
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1180.ts
+#EXTINF:-1,[AR] BeinSports HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1075.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/857.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/858.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 3
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/859.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 4
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/860.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 5
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/861.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 6
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/862.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 7
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/863.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 8
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/864.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 9
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/865.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 10
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/866.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 11
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1076.ts
+#EXTINF:-1,[AR] BeinSport FULL HD 12
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1333.ts
+#EXTINF:-1,[AR] Bein Sports 1 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/363.ts
+#EXTINF:-1,[AR] Bein Sports 2 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/364.ts
+#EXTINF:-1,[AR] Bein Sports 3 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/365.ts
+#EXTINF:-1,[AR] Bein Sports 4 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/366.ts
+#EXTINF:-1,[AR] Bein Sports 5 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/367.ts
+#EXTINF:-1,[AR] Bein Sports 6 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/368.ts
+#EXTINF:-1,[AR] Bein Sports 7 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/369.ts
+#EXTINF:-1,[AR] Bein Sports 8 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/370.ts
+#EXTINF:-1,[AR] Bein Sports 9 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/371.ts
+#EXTINF:-1,[AR] Bein Sports 10 HD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/372.ts
+#EXTINF:-1,[AR] Bein Sports 1 SD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1219.ts
+#EXTINF:-1,[AR] Bein Sports 2 SD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1218.ts
+#EXTINF:-1,[AR] Bein Sports 3 SD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1217.ts
+#EXTINF:-1,[AR] Bein Sports 4 SD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1216.ts
+#EXTINF:-1,[AR] Bein Sports 5 SD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1215.ts
+#EXTINF:-1,[AR] Bein Sports 6 SD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1214.ts
+#EXTINF:-1,[AR] Bein Sports 7 SD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1213.ts
+#EXTINF:-1,[AR] Bein Sports 8 SD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1212.ts
+#EXTINF:-1,[AR] Bein Sports 9 SD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1211.ts
+#EXTINF:-1,[AR] Bein Sports 10 SD
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1210.ts
+#EXTINF:-1,[AR] Bein Sports 1
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1690.ts
+#EXTINF:-1,[AR] Bein Sports 2
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1691.ts
+#EXTINF:-1,[AR] Bein Sports 3
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1692.ts
+#EXTINF:-1,[AR] Bein Sports 4
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1693.ts
+#EXTINF:-1,[AR] Bein Sports 5
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1694.ts
+#EXTINF:-1,[AR] Bein Sports 6
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1695.ts
+#EXTINF:-1,[AR] Bein Sports 7
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1696.ts
+#EXTINF:-1,[AR] Bein Sports 8
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1697.ts
+#EXTINF:-1,[AR] Bein Sports 9
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1698.ts
+#EXTINF:-1,[AR] Bein Sports 10
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1699.ts
+#EXTINF:-1,[SPO] Real madrid English
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1137.ts
+#EXTINF:-1,[SPO] Bursaspor Tv
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1133.ts
+#EXTINF:-1,[SPO] Tjk TV Turkey
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1135.ts
+#EXTINF:-1,[SPO] Real madrid tv
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1134.ts
+#EXTINF:-1,[SPO] PTV Sports Live
+http://3arabiptv.ddns.net:8000/live/reemazeez@yahoo.com/PM2WkJFxiJ/1132.ts
